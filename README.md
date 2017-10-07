@@ -1,4 +1,4 @@
-# Linear Regression
+# Advanced Linear Regression
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
 You will learn more advanced techniques in Regression , distinguish between L1 , L2 methods and understand model validation
