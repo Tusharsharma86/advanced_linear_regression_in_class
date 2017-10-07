@@ -20,17 +20,6 @@ You will learn more advanced techniques in Regression , distinguish between L1 ,
 ## In-Class Activities
 * Recap of previous session
 * Instructor Concept building
-  * Learn about ways to handle Non-Linear Data
-  * Understand Regularization and its types
-  * Distinguish between L1 and L2
-  * Understand Bias-Variance Trade-off
-  * Learn about Model Validation
-
-* Reverse Classroom (Nominate 1 person the next day)
-  * Explain the following terms to a 5 year old 
-    * Regularization
-    * Overfitting
-    * Bias Variance Tradeoff
 * In Class Quiz Administration
 * Periodic Recap - Closer to the end of session
 * In Class Assignments - Motivation
